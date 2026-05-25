@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteretringify",
+        "uuid": 1102000,
+        "checksum": "ojyaz9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
